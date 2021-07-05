@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "youtube-app"
+  "defaultProject": "youtube-app",
+  "cli": {
+    "analytics": false
+  }
 }
