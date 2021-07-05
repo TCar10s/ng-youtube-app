@@ -10,7 +10,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/TCar10s/ng-youtube-map/main/src/assets/img/screenshot-desktop.jpeg)
+![screenshot](https://raw.githubusercontent.com/TCar10s/ng-youtube-app/main/src/assets/img/screenshot-desktop.jpeg)
 
 ## Notas
 
