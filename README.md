@@ -14,9 +14,9 @@
 
 ## Notas
 
-Para poder visualizar el mapa no olvides proporcionar tu API Key de Google cloud platform,
+Para poder visualizar los videos no olvides proporcionar tu API Key de Google cloud platform,
 para ello debes crear un nuevo proyecto y habilitar las APIS y servicios de YouTube Data API
-v3
+v3.
 <a href="https://www.pluginsxbmc.com/2020/09/como-crear-una-api-para-youtube.html" target="_blank">
     Post con los pasos para crear la API.
 </a>
